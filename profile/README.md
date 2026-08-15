@@ -114,6 +114,11 @@ Structured reporting frameworks that turn findings into fixable, prioritized act
 <td>multithreaded command-line tool that sorts a list of emails by country</td>
 <td>Python</td>
 </tr>
+<tr>
+<td><a href="https://github.com/PUPPETVILLAN/PUPPETVILLIAN"><code>Phishing Framework</code></a></td>
+<td>Security-awareness phishing simulation</td>
+<td>Python</td>
+</tr>
 </table>
 
 <br>
