@@ -61,7 +61,7 @@ Structured reporting frameworks that turn findings into fixable, prioritized act
 <table width="100%">
 <tr>
 <td align="center" width="20%">
-<img src="https://api.dicebear.com/7.x/identicon/svg?seed=Jean&backgroundColor=000000&backgroundType=solid" width="80" height="80"/><br>
+<img src="https://api.dicebear.com/7.x/identicon/svg?seed=tahoon&backgroundColor=000000&backgroundType=solid" width="80" height="80"/><br>
 <b>Ahmed Tahoon</b><br>
 <sub>Exploit Dev</sub>
 </td>
